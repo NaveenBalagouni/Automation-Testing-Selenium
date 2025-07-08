@@ -3,6 +3,17 @@ Environment Setup
 STEP 1: 📁 STRUCTURE EACH MODULE
 📁 A. ssd-ui-automation/
 
+PyTest‑Automation‑Framework - https://github.com/Jramonp92/PyTest-Automation-Framework.git
+
+Selenium‑Pytest‑Template - https://github.com/Johan-Pretorius/Selenium-Pytest-Template.git
+
+Performance Testing with JMeter + Selenium - https://github.com/Johan-Pretorius/Selenium-Pytest-Template.git
+
+jmeter‑selenium‑webdriver‑example - https://github.com/m-tejas/jmeter-selenium-webdriver-example.git
+
+
+ 
+
 ssd-ui-automation/
 ├── tests/
 │   └── test_login.py
