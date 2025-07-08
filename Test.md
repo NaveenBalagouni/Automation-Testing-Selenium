@@ -1,5 +1,35 @@
 Environment Setup
 
+STEP 1: 📁 STRUCTURE EACH MODULE
+📁 A. ssd-ui-automation/
+
+ssd-ui-automation/
+├── tests/
+│   └── test_login.py
+├── drivers/
+│   └── chromedriver.exe
+├── reports/
+│   └── allure-results/
+├── requirements.txt
+├── pytest.ini
+
+📁 B. ssd-api-automation/
+
+ssd-api-automation/
+├── tests/
+│   └── test_api_status.py
+├── reports/
+│   └── allure-results/
+├── requirements.txt@
+├── pytest.ini
+
+📁 C. jmeter/
+
+jmeter/
+├── test-plan.jmx
+├── results/
+│   └── result.jtl
+
 Install dependencies:
 
 python -m venv venv
